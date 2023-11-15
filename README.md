@@ -1,1 +1,13 @@
 # Unit2.Manual-Test-Suite
+- Fetch all players from the API and return them: Does the fetchAllPlayers function return an array of player objects if there are ones?
+- Does the program Loop through the array of player objects and differentiate between the bench and field players?
+- For each category of players (bench and field), is the number of teams determined, including the unassigned team?
+- Does the application determine the members of each team?
+- For each player, is a card player created? Does the program write a string of HTML that includes the player's name and two buttons: a remove button, and a details button?
+- are all the player cards added to the DOM? 
+- Are the buttons shown on all the player cards?
+- When the see details button is clicked, does the application show the player details with a larger image of the player? 
+- When the remove button is clicked, is the player deleted from the API and from the list without a page refresh?
+- is the new player form added to the HTML file?
+- When the form is submitted with an empty input field for the essential elements, does the application alert the user to refill the form and resubmit it? (Validate the new player)
+- When the form is submitted correctly, is a new player added to the API and to the main page without a page refresh?
